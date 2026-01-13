@@ -9,7 +9,7 @@ An interactive **Pathfinding Visualizer** built using **Vanilla JavaScript**, de
 
 ## ✨ Features
 
-- Visualize popular **Pathfinding Algorithms**
+- **Pathfinding Algorithms**
   - Breadth First Search (BFS)
   - Depth First Search (DFS)
   - Dijkstra’s Algorithm
