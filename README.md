@@ -20,23 +20,12 @@ An interactive **Pathfinding Visualizer** built using **Vanilla JavaScript**, de
   - Prim’s Algorithm
   - Kruskal’s Algorithm
 
-- Interactive UI
-  - Drag & drop **source** and **destination** nodes
-  - Adjustable **animation speed**
-  - Clear path / clear grid options
-  - Real-time visualization reset when switching algorithms
-
-- Fully **responsive & full-screen** layout
-- Footer with social links (GitHub & LinkedIn)
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 
 No external libraries or frameworks were used.
-
----
